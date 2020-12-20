@@ -154,3 +154,12 @@ transition: border-bottom .4s ease-in-out;
     align-items: center;
 
 }
+.pendidikan{
+  background-color: skyblue;
+  color: black;
+  text-align: center;
+  padding: 15px 15px;
+  height: 100vh;
+  display: flex;
+  text-align: left;
+}
