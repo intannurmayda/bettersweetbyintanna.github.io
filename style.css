@@ -149,9 +149,9 @@ transition: border-bottom .4s ease-in-out;
     color: black;
     text-align: center;
     padding: 15px 15px;
-    height: 100vh;
+    height: 210px;
     display: flex;
-    align-items: center;
+    text-align: left;
 
 }
 .pendidikan{
